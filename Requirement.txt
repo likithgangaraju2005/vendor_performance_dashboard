@@ -1,0 +1,22 @@
+# Core Python Libraries
+pandas==2.0.3
+numpy==1.25.2
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Jupyter Notebook
+notebook==7.0.2
+ipython==8.15.0
+
+# Reporting
+fpdf==1.7.2   # For generating PDF reports
+openpyxl==3.1.2  # For Excel file handling
+
+# Database / Data Ingestion (if using DB connections)
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.7   # For PostgreSQL (optional, replace if using another DB)
+
+# Utility
+python-dotenv==1.0.0   # For environment variables
